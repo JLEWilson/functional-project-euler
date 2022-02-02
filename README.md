@@ -1,37 +1,41 @@
-# _{Application Name}_
+# _Functional Project Euler problems_
 
-#### By _**Matt C.**_
+#### By _**Jacob W, Matt C, Aaron M, Albert L**_
 
-#### _{Brief description of application}_
+#### _Practice writing functional code in JavaScript using problems on ProjectEuler._
 
 ## Technologies Used
 
 * _HTML_
+* _JavaScript_
 * _CSS_
 * _Markdown_
-* _JavaScript_
 * _Bootstrap_
-* _jQuery_
-* _jest_
-* _webpack_
+* _JQuery_
+* _Jest_
+* _Webpack_
+* _Lint_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_Practicing functional programming in JavaScript. Each problem is stored in a different file in src/js. Functions prioritize pure code, currying, recursion, and closures._
 
 ## Setup/Installation Requirements
 
-* _Run 'git clone git@github:catperso/{PROJECT GOES HERE}.git' from the terminal to clone the project directory to your device._
-* _Run 'npm install' and 'npm run build' from the terminal in the project directory._
-* _Run 'npm run start' from the terminal to build the project and start a live server._
-* _Enjoy the lovely CSS._
+* _You can find the github repository [here](https://github.com/JLEWilson/functional-project-euler)_
+* _Click the code button, and copy the https link_
+* _In your in git bash or your preferred git terminal navigate to the directory you would like to store the project_
+* _Enter: "git clone" followed by the https link_
+* _Now that the repository is cloned to your computer, right click on the folder and click open with vs code_
+* _Now type npm install in your terminal to install the packages used in the project, you may have to run install twice due to the size of the packages_
+* _You can now view the project by typing npm run start in your terminal_
 
 ## Known Bugs
 
-* _None so far_
+* _No buildable project, just practice functions._
 
 ## License - [MIT](https://opensource.org/licenses/MIT)
 
-_If you run into any problems/bugs feel free to send me an email @mc.casperson@gmail.com with details._
+_If you run into any problems or find a bug, would like to reach me for a separate reason, feel free to send me an email @jacobleeeugenewilson@gmail.com with details of your issue._
 
-Copyright (c) _2021_ _Matt C._
+Copyright (c) _02/01/2022_ _Jacob W, Matt C, Aaron M, Albert L_
